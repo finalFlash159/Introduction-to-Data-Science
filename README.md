@@ -162,7 +162,7 @@ To determine if there is a causal relationship between playing at home and goal 
 
 ## References
 
-- [UEFA officially abolishes the away goals rule](https://www.uefa.com/insideuefa/news/026a-12733e7c1b7c-2e7e2b7b1c2d-1000/)
+- [UEFA officially abolishes the away goals rule](https://www.uefa.com/news-media/news/026a-1298aeb73a7a-5b64cb68d920-1000--abolition-of-the-away-goals-rule-in-all-uefa-club-competi/)
 - [Transfermarkt](https://www.transfermarkt.com)
 - [Langchain Documentation](https://python.langchain.com/)
 - [Propensity Score Matching in Causal Inference](https://en.wikipedia.org/wiki/Propensity_score_matching)
