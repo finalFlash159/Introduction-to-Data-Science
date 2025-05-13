@@ -156,8 +156,6 @@ To determine if there is a causal relationship between playing at home and goal 
 - **Võ Minh Thịnh** (22280087): Applied causal inference for hypothesis testing
 - **Nguyễn Phạm Anh Văn** (22280104): Applied causal inference for hypothesis testing
 
-**Team Leader:** Nguyễn Hồng Sơn (22280078)
-
 ---
 
 ## References
